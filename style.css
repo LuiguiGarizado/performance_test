@@ -366,8 +366,6 @@ footer {
     .photos{
         grid-template-columns: repeat(2, 1fr);
     }
-
-
     
     .btn-primary, .btn-secondary {
         width: 90%; 
@@ -380,3 +378,4 @@ footer {
         font-size: 1.8rem; 
         margin-bottom: 10px;
     }
+}

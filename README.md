@@ -8,9 +8,9 @@ THe shattered Riffs landing page designed for a rock band performance, The proje
 
     HTML5: Semantic structure (header, main, section, article, nav, footer).
     CSS3: Advanced styling including:
-        Flexbox and CSS Grid for layout management.
-        Responsive Design (Media Queries).
-        Custom Animations and Hover Effects.
+    Flexbox and CSS Grid for layout management.
+    Responsive Design (Media Queries).
+    Custom Animations and Hover Effects.
 
 ## Project Structure
 
